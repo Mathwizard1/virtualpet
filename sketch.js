@@ -3,7 +3,7 @@ var dg,hdg,s1,s2;
 
 function preload(){
    hdg=loadImage("happydog.png");
-   dg=loadImage("dog.png");
+   dg=loadImage("Dog.png");
 }
 
 
